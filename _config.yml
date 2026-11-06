@@ -1,0 +1,20 @@
+# GitHub Pages builds this with Jekyll and the minima theme; nothing to install.
+title: Piotr Wilam
+email: piotrwilam@gmail.com
+description: >-
+  Interpretability of language models — how a model's representation of a
+  language forms during training.
+author: Piotr Wilam
+url: "https://piotrwilam.github.io"
+baseurl: ""
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+# shown as icons in the footer
+github_username: piotrwilam
+linkedin_username: piotrwilam
+
+exclude:
+  - README.md
