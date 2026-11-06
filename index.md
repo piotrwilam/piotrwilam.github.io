@@ -20,7 +20,7 @@ I have started with code, because the grammar of a programming language is known
 
 **Results.** Representational drift \[2\]: in one model read across two trillion tokens, the loss at a construct's positions reaches its floor in the beginning of training; the neurons that carry the construct never settle, and the model relies on the current ones more and more. No deeper, no later \[3\]: composed constructs wire no deeper and no later than atomic ones — found in the MSc, now being repeated on calibrated concept profiles (in progress). Next: what is stable when the carriers are not — a small core and a wide drifting fringe.
 
-**The direction.** Basics first: an instrument — calibrated batteries leading to calibrated readings — then observations that are measurements. From observations to a first iteration of mechanisms: from which neurons carry a construct to how the model computes it. Then natural language, other models, small LLMs trained from scratch. This is the route from the MSc towards a PhD. Behind it is the big question: how the computations of LLMs work.
+**The direction.** Basics first: an instrument — calibrated batteries leading to calibrated readings — then observations that are measurements. From observations to a first iteration of mechanisms: from which neurons carry a construct to how the model computes it. Then natural language, other models, small LLMs trained from scratch. This is the route from the MSc towards a PhD. All of this is one part of a larger question: how the computations of a language model work.
 
 ---
 
