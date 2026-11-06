@@ -9,7 +9,7 @@ Interpretability of language models — how a model's representation of a langua
 
 ---
 
-## How does a language model's representation of a language form as it learns?
+## From measurement to mechanism
 
 I have started with code, because the grammar of a programming language is known exactly, so every construct the model should learn can be listed before any measurement.
 
@@ -47,7 +47,7 @@ Two questions sit behind the research. What is language, as an entity — one in
 
 ---
 
-## Elsewhere
+## Beyond research
 
 Recent reading and inspirations: Ted Chiang, *Exhalation*; Ray Nayler, *The Mountain in the Sea*; David Deutsch, *The Beginning of Infinity*.
 
