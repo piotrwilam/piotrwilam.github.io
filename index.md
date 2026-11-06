@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Piotr Wilam
 ---
-
-# Piotr Wilam
 
 Interpretability of language models — how a model's representation of a language forms during training.
 
@@ -25,9 +24,9 @@ I have started with code, because the grammar of a programming language is known
 ## Papers
 
 - *Calibrated concept profiles: making the reading of a model's neurons a measurement.* arXiv, 2026. [repository](https://github.com/piotrwilam/AtlasCalibratedConceptProfiles) · [dataset: battery and profiles](https://huggingface.co/datasets/piotrwilam/AtlasOpenCoder)
-- *Representational drift in a code model: behaviour settles, which neurons carry it does not.* arXiv, 2026. [repository](https://github.com/piotrwilam/AtlasRepresentationalDrift)
-- *No deeper, no later: composed constructs in a code model.* MSc dissertation, UCL, 2026. [code and data](https://github.com/piotrwilam/No-Deeper-No-Later)
-- *What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations.* arXiv 2607.21491, 2026. [arXiv](https://arxiv.org/abs/2607.21491) · [repository](https://github.com/piotrwilam/Atlas2x2)
+- *Representational drift in a code model: behaviour settles, which neurons carry it does not.* arXiv, 2026.
+- *No deeper, no later: composed constructs in a code model.* MSc dissertation, UCL, 2026.
+- *What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations.* arXiv 2607.21491, 2026. [arXiv](https://arxiv.org/abs/2607.21491)
 
 ---
 
