@@ -1,0 +1,10 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- comment -%} The tab title is the name alone; seo would append the description to it. {%- endcomment -%}
+  <title>{{ site.title | escape }}</title>
+  {%- seo title=false -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+</head>
