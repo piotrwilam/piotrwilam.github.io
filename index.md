@@ -26,9 +26,9 @@ I have started with code, because the grammar of a programming language is known
 
 ## Papers
 
-\[1\] *Calibrated concept profiles: making the reading of a model's neurons a measurement.* arXiv, 2026. [PDF](/papers/calibrated-concept-profiles.pdf) · [repo](https://github.com/piotrwilam/AtlasCalibratedConceptProfiles) · [data](https://huggingface.co/datasets/piotrwilam/AtlasOpenCoder)
+\[1\] *Calibrated concept profiles: making the reading of a model's neurons a measurement.* arXiv 2611.09196, 2026. [arXiv](https://arxiv.org/abs/2611.09196) · [PDF](/papers/calibrated-concept-profiles.pdf) · [repo](https://github.com/piotrwilam/AtlasCalibratedConceptProfiles) · [data](https://huggingface.co/datasets/piotrwilam/AtlasOpenCoder)
 
-\[2\] *Representational drift in a code model: behaviour settles, which neurons carry it does not.* arXiv, 2026. [PDF](/papers/representational-drift.pdf) · [repo](https://github.com/piotrwilam/AtlasRepresentationalDrift)
+\[2\] *Representational drift in a code model: behaviour settles, which neurons carry it does not.* arXiv 2611.09204, 2026. [arXiv](https://arxiv.org/abs/2611.09204) · [PDF](/papers/representational-drift.pdf) · [repo](https://github.com/piotrwilam/AtlasRepresentationalDrift)
 
 \[3\] *Grammatical composition does not order the circuits of a code model: depth and formation time across training.* MSc dissertation, UCL, 2026. [PDF](https://github.com/piotrwilam/No-Deeper-No-Later/releases/download/msc-submission/Piotr-Wilam_MSc_dissertation.pdf) · [repo](https://github.com/piotrwilam/No-Deeper-No-Later)
 
