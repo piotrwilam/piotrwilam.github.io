@@ -12,7 +12,7 @@ how a model's representation of a language forms during training.
 
 ## From measurement to mechanism
 
-I have started with code, because the grammar of a programming language is known exactly, so every construct the model should learn can be listed before any measurement.
+I have started research on language models with code, because the grammar of a programming language is known exactly, so every construct the model should learn can be listed before any measurement.
 
 **A conjecture.** Activations hold far more than has been read from them. Two routes lead into them. One trains a second model on the activations — a probe, a sparse autoencoder, a crosscoder — and reads its features; it finds what nobody named. The other keeps the reading direct and declares the instrument in advance: what the model is shown, and the arithmetic that turns its activations into numbers. My conjecture is that the second route has been left early and goes much further: for any concept that can be named, a declared instrument reads more, and more can be named than has been. The first route does not replace it, because a learned instrument reorganises what the activations contain and no more.
 
